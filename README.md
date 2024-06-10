@@ -1,1 +1,1 @@
-# conjugador
+# quechua
